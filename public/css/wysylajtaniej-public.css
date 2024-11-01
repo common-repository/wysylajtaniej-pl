@@ -1,0 +1,66 @@
+#selected-point{
+    display: block;
+    background: #eee;
+}
+.wt-search-input{
+    display: flex;
+}
+
+#shipping_method .wt-search-input input{
+    padding: 0;
+    margin: 0;
+}
+.wt-search-input a{
+    height: 100%;
+    padding: .2rem 1rem;
+    display: block;
+    background: #f9f9f9;
+    font-size: .825rem;
+    text-decoration: none!important;
+}
+.selectPlaceholder{
+    display: block;
+    max-height: 200px;
+     overflow-y: auto;
+    width: 100%;
+}
+.selectPlaceholder .parcel-line{
+   display: flex;
+    width: 100%;
+    font-size: .65rem;
+    align-items: center;
+    padding: .2rem .5rem;
+}
+.selectPlaceholder .parcel-line:nth-child(2n){
+    background: #f9f9f9;
+}
+.selectPlaceholder .parcel-line .parcel-name{
+    margin-right: 1rem;
+    flex-basis: 20%;
+}
+.selectPlaceholder .parcel-line .buttonsSelect{
+    margin-left: auto;
+}
+.selectPlaceholder .parcel-line .buttonsSelect button{
+    padding: .2rem 0.5rem;
+    font-size: .65rem;
+    line-height:.65rem;
+    vertical-align: center;
+}
+.selectPlaceholder.loading{
+    height: 60px;
+    position: relative;
+}
+.selectPlaceholder.loading:after{
+    position: absolute;
+    content: "Ładowanie ...";
+    color: #000;
+    font-size: 30px;
+    line-height: 60px;
+    font-weight: bold;
+    background: #f1f1f1;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    left: 0;
+}

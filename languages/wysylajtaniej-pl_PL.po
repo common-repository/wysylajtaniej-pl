@@ -1,0 +1,373 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-05-29 10:25+0200\n"
+"PO-Revision-Date: 2021-05-18 15:32+0000\n"
+"Last-Translator: \n"
+"Language-Team: Polski\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 "
+"|| n%100>14) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.5.2; wp-5.7.2"
+
+#: admin/class-wysylajtaniej-admin.php:128
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: admin/class-wysylajtaniej-admin.php:149
+#: admin/class-wysylajtaniej-admin.php:184
+msgid "wysylajtaniej.pl"
+msgstr "WysylajTaniej.pl"
+
+#: admin/class-wysylajtaniej-admin.php:174
+#: admin/partials/wysylajtaniej-admin-display.php:43
+msgid "wysylajtaniej"
+msgstr "WysylajTaniej"
+
+#: admin/class-wysylajtaniej-admin.php:335
+msgid "No API KEY for wysylajtaniej"
+msgstr "Brak klucza API lwysylajtaniej"
+
+#: admin/class-wysylajtaniej-admin.php:349
+msgid "width"
+msgstr "szerokość"
+
+#: admin/class-wysylajtaniej-admin.php:355
+msgid "height"
+msgstr "wysokość"
+
+#: admin/class-wysylajtaniej-admin.php:361
+msgid "length"
+msgstr "długość"
+
+#: admin/class-wysylajtaniej-admin.php:367
+msgid "weight"
+msgstr "waga"
+
+#: admin/class-wysylajtaniej-admin.php:409
+#: admin/partials/wysylajtaniej-admin-display.php:33
+#: admin/partials/wysylajtaniej-admin-display.php:87
+#: admin/partials/wysylajtaniej-admin-display.php:88
+msgid "Sender info"
+msgstr "Dane nadawcy"
+
+#: admin/class-wysylajtaniej-admin.php:419
+msgid "Receiver info"
+msgstr "Dane odbiorcy"
+
+#: admin/class-wysylajtaniej-admin.php:429
+msgid "Package info"
+msgstr "Informacje o przesyłce"
+
+#: admin/class-wysylajtaniej-admin.php:433
+msgid "Courier"
+msgstr "Kurier"
+
+#: admin/class-wysylajtaniej-admin.php:457
+#: admin/partials/wysylajtaniej-admin-display.php:155
+msgid "--select courier--"
+msgstr "— wybierz kuriera —"
+
+#: admin/class-wysylajtaniej-admin.php:480
+msgid "Search Point by address"
+msgstr "Wyszukaj punkt po adresie"
+
+#: admin/class-wysylajtaniej-admin.php:488
+msgid "Search"
+msgstr "Wyszukaj"
+
+#: admin/class-wysylajtaniej-admin.php:518
+#: admin/class-wysylajtaniej-admin.php:702
+msgid "Sender Point"
+msgstr "Punkt Nadawcy"
+
+#: admin/class-wysylajtaniej-admin.php:537
+#: admin/class-wysylajtaniej-admin.php:701
+msgid "Receiver Point"
+msgstr "Punkt Odbiorcy"
+
+#: admin/class-wysylajtaniej-admin.php:574
+msgid "Shape"
+msgstr "Kształt"
+
+#: admin/class-wysylajtaniej-admin.php:621
+msgid "Make new order"
+msgstr "Stwórz nowe"
+
+#: admin/class-wysylajtaniej-admin.php:643
+msgid "Check price / save"
+msgstr "Sprawdź cenę / zapisz"
+
+#: admin/class-wysylajtaniej-admin.php:645
+msgid "Send"
+msgstr "Wyślij"
+
+#: admin/class-wysylajtaniej-admin.php:763
+msgid "No results"
+msgstr "Brak wyników"
+
+#: admin/class-wysylajtaniej-admin.php:792
+msgid "Package will cost: "
+msgstr "Koszt przesyłki: "
+
+#: admin/class-wysylajtaniej-admin.php:794
+msgid "Error occurred"
+msgstr "Wystąpił błąd"
+
+#: admin/class-wysylajtaniej-admin.php:800
+msgid "Package send to wysylajtaniej"
+msgstr ""
+"Paczka wysłana do koszka wysylajtaniej. Wejdź na www.WysylajTaniej.pl w "
+"zakładkę koszyk i uruchom przesyłkę."
+
+#: admin/class-wysylajtaniej-admin.php:808
+#: admin/class-wysylajtaniej-admin.php:821
+msgid "No response from wysylajtaniej. Check all fields"
+msgstr "Brak odpowiedzi. Sprawdź wszystkie pola"
+
+#: admin/class-wysylajtaniej-admin.php:833
+msgid "Package reseted"
+msgstr "Paczka zresetowana"
+
+#: admin/class-wysylajtaniej-admin.php:933
+msgid "COD Value"
+msgstr "Kwota pobrania"
+
+#: admin/class-wysylajtaniej-admin.php:936
+msgid "Account number"
+msgstr "Numer konta"
+
+#: admin/class-wysylajtaniej-admin.php:939
+#: admin/partials/wysylajtaniej-admin-display.php:139
+msgid "Insurance amount"
+msgstr "Wysokość ubezpieczenia"
+
+#: admin/class-wysylajtaniej-admin.php:942
+msgid "Date"
+msgstr "Data"
+
+#: admin/class-wysylajtaniej-admin.php:945
+msgid "Description"
+msgstr "Opis"
+
+#: admin/class-wysylajtaniej-admin.php:977
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Nie posiadasz uprawnień aby się dostać na tą stronę."
+
+#: admin/class-wysylajtaniej-admin.php:991
+msgid "Data saved"
+msgstr "Dane zapisane"
+
+#: admin/class-wysylajtaniej-admin.php:1004
+#: admin/class-wysylajtaniej-admin.php:1131
+msgid "Access granted"
+msgstr "Przyznano dostęp"
+
+#: admin/class-wysylajtaniej-admin.php:1084
+msgid "Every delivery option can have just one courier attached."
+msgstr "Każda forma dostawy może być przypisana do jeden usługi."
+
+#: admin/class-wysylajtaniej-admin.php:1099
+msgid "Account reseted"
+msgstr "Konto zresetowane"
+
+#: admin/class-wysylajtaniej-admin.php:1370
+#: admin/class-wysylajtaniej-admin.php:1446
+#: admin/class-wysylajtaniej-admin.php:1509
+#: admin/partials/wysylajtaniej-admin-display.php:94
+msgid "Name"
+msgstr "Imię"
+
+#: admin/class-wysylajtaniej-admin.php:1376
+#: admin/class-wysylajtaniej-admin.php:1452
+#: admin/class-wysylajtaniej-admin.php:1515
+#: admin/partials/wysylajtaniej-admin-display.php:98
+msgid "Surname"
+msgstr "Nazwisko"
+
+#: admin/class-wysylajtaniej-admin.php:1382
+#: admin/class-wysylajtaniej-admin.php:1458
+#: admin/class-wysylajtaniej-admin.php:1521
+#: admin/partials/wysylajtaniej-admin-display.php:102
+msgid "Company"
+msgstr "Firma"
+
+#: admin/class-wysylajtaniej-admin.php:1388
+#: admin/class-wysylajtaniej-admin.php:1464
+#: admin/class-wysylajtaniej-admin.php:1527
+#: admin/partials/wysylajtaniej-admin-display.php:106
+msgid "Street"
+msgstr "Ulica"
+
+#: admin/class-wysylajtaniej-admin.php:1394
+#: admin/class-wysylajtaniej-admin.php:1470
+#: admin/class-wysylajtaniej-admin.php:1533
+#: admin/partials/wysylajtaniej-admin-display.php:110
+msgid "Building"
+msgstr "Budynek"
+
+#: admin/class-wysylajtaniej-admin.php:1400
+#: admin/class-wysylajtaniej-admin.php:1476
+#: admin/class-wysylajtaniej-admin.php:1539
+#: admin/partials/wysylajtaniej-admin-display.php:114
+msgid "Local"
+msgstr "Lokal"
+
+#: admin/class-wysylajtaniej-admin.php:1406
+#: admin/class-wysylajtaniej-admin.php:1482
+#: admin/class-wysylajtaniej-admin.php:1545
+#: admin/partials/wysylajtaniej-admin-display.php:119
+msgid "City"
+msgstr "Miasto"
+
+#: admin/class-wysylajtaniej-admin.php:1412
+#: admin/class-wysylajtaniej-admin.php:1488
+#: admin/class-wysylajtaniej-admin.php:1551
+#: admin/partials/wysylajtaniej-admin-display.php:123
+msgid "Post code"
+msgstr "Kod pocztowy"
+
+#: admin/class-wysylajtaniej-admin.php:1418
+#: admin/class-wysylajtaniej-admin.php:1494
+#: admin/class-wysylajtaniej-admin.php:1557
+#: admin/partials/wysylajtaniej-admin-display.php:127
+msgid "E-mail"
+msgstr "E-mail"
+
+#: admin/class-wysylajtaniej-admin.php:1424
+#: admin/class-wysylajtaniej-admin.php:1500
+#: admin/class-wysylajtaniej-admin.php:1563
+#: admin/partials/wysylajtaniej-admin-display.php:131
+msgid "Phone"
+msgstr "Telefon"
+
+#: admin/partials/wysylajtaniej-admin-display.php:31
+msgid "API account"
+msgstr "Konto API"
+
+#: admin/partials/wysylajtaniej-admin-display.php:34
+msgid "Connect delivery"
+msgstr "Połącz usługi"
+
+#: admin/partials/wysylajtaniej-admin-display.php:42
+msgid "Main settings"
+msgstr "Ustawienia główne"
+
+#: admin/partials/wysylajtaniej-admin-display.php:45
+msgid ""
+"The wysylajtaniej.pl website enables the use of a wide range of courier "
+"services at very attractive prices without restrictions and the need to sign "
+"contracts."
+msgstr ""
+"Wysylajtaniej.pl pozwala na korzystanie z wielu kurierów w bardzo "
+"atrakcyjnych cenach, bez konieczności podpisywania umowy. <br>Załóż konto na "
+"<a href=\"https://www.wysylajtaniej.pl/register/\" target=\"_blank\">"
+"wysylajtaniej.pl </a>i wygeneruj Klucz API który wpiszesz poniżej. \n"
+"<br>Klucz Api wygenerujesz w zakładce \"dane konta\" na stronie <a "
+"href=\"https://www.wysylajtaniej.pl/user/dane/konta\" target=\"_blank\">"
+"https://www.wysylajtaniej.pl/user/dane/konta</a> \n"
+"<br>Od tego momentu będziesz mógł nadawać przesyłki bezpośrednio z twojego "
+"sklepu do wysylajtaniej. <br><bR>Masz do wyboru usługi firm kurierskich: <b>"
+"DPD, Inpost Kurier, Paczkomat, DPD pickup lub Orlen Paczka (dawniej Paczka w Ruchu) </b> szybko i "
+"prosto. \n"
+"<br>Kliknij na <a href=\"https://www.wysylajtaniej.pl/narzedzia/wtyczka-do-"
+"integracji-z-firma-kurierska-woocommerce\" target=\"_blank\">link</a> do "
+"strony z filmem z konfiguracji wtyczki \n"
+"<br>W przypadku problemów z konfiguracją wtyczki, udzielamy bezpłatnej "
+"pomocy telefonicznie lub na email <a href=\"mailto:woo@wysylajtaniej.pl\">"
+"woo@wysylajtaniej.pl</a>"
+
+#: admin/partials/wysylajtaniej-admin-display.php:52
+#: admin/partials/wysylajtaniej-admin-display.php:75
+msgid "API key"
+msgstr "Klucz API"
+
+#: admin/partials/wysylajtaniej-admin-display.php:60
+msgid "You can reset current account by clicking Reset button"
+msgstr "Możesz zresetować przyciskając Reset"
+
+#: admin/partials/wysylajtaniej-admin-display.php:64
+msgid "Reset"
+msgstr "Reset"
+
+#: admin/partials/wysylajtaniej-admin-display.php:68
+#: admin/partials/wysylajtaniej-admin-display.php:135
+msgid "Account"
+msgstr "Konto"
+
+#: admin/partials/wysylajtaniej-admin-display.php:80
+#: admin/partials/wysylajtaniej-admin-display.php:215
+#: admin/partials/wysylajtaniej-admin-display.php:263
+msgid "Save"
+msgstr "Zapisz"
+
+#: admin/partials/wysylajtaniej-admin-display.php:143
+msgid "Default courier"
+msgstr "Domyślny kurier"
+
+#: admin/partials/wysylajtaniej-admin-display.php:175
+msgid "Default description"
+msgstr "Domyślny opis"
+
+#: admin/partials/wysylajtaniej-admin-display.php:180
+msgid "Default width"
+msgstr "Domyślna szerokość"
+
+#: admin/partials/wysylajtaniej-admin-display.php:185
+msgid "Default Height"
+msgstr "Domyślna wysokość"
+
+#: admin/partials/wysylajtaniej-admin-display.php:190
+msgid "Default length"
+msgstr "Domyślna długość"
+
+#: admin/partials/wysylajtaniej-admin-display.php:195
+msgid "Default weight"
+msgstr "Domyślna waga"
+
+#: admin/partials/wysylajtaniej-admin-display.php:200
+msgid "Paczka w ruchu Point"
+msgstr "Punkt Paczka w ruchu"
+
+#: admin/partials/wysylajtaniej-admin-display.php:204
+msgid "Inpost Point"
+msgstr "Punkt Inpost"
+
+#: admin/partials/wysylajtaniej-admin-display.php:208
+msgid "DPD Point"
+msgstr "Punkt DPD"
+
+#: admin/partials/wysylajtaniej-admin-display.php:220
+msgid "Connect delivery option to wysylajtaniej courier"
+msgstr "Połącz formy dostawy z usługami Wysylajtaniej"
+
+#: admin/partials/wysylajtaniej-admin-display.php:223
+msgid ""
+"Please remember! You can only connect to flat rates delivery option. Every "
+"delivery option can have just one option."
+msgstr ""
+"Możesz połączyć jedynie jedną metodę wysyłki do jednego kuriera (nie licząc "
+"opcji \"darmowa wysyłka\")."
+
+#: public/class-wysylajtaniej-public.php:84
+#: public/class-wysylajtaniej-public.php:120
+msgid "Select point"
+msgstr "Wybierz punkt"
+
+#: public/class-wysylajtaniej-public.php:129
+#: public/class-wysylajtaniej-public.php:138
+msgid "Type adress"
+msgstr "Podaj adres"
+
+#: public/class-wysylajtaniej-public.php:130
+#: public/class-wysylajtaniej-public.php:139
+msgid "Search point"
+msgstr "Wyszukaj punkt"

@@ -1,0 +1,349 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-05-29 10:25+0200\n"
+"PO-Revision-Date: 2020-05-29 10:25+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-wysylajtaniej-admin.php:128
+msgid "Settings"
+msgstr ""
+
+#: admin/class-wysylajtaniej-admin.php:149
+#: admin/class-wysylajtaniej-admin.php:184
+msgid "wysylajtaniej.pl"
+msgstr ""
+
+#: admin/class-wysylajtaniej-admin.php:174
+#: admin/partials/wysylajtaniej-admin-display.php:43
+msgid "wysylajtaniej"
+msgstr ""
+
+#: admin/class-wysylajtaniej-admin.php:335
+msgid "No API KEY for wysylajtaniej"
+msgstr ""
+
+#: admin/class-wysylajtaniej-admin.php:349
+msgid "width"
+msgstr ""
+
+#: admin/class-wysylajtaniej-admin.php:355
+msgid "height"
+msgstr ""
+
+#: admin/class-wysylajtaniej-admin.php:361
+msgid "length"
+msgstr ""
+
+#: admin/class-wysylajtaniej-admin.php:367
+msgid "weight"
+msgstr ""
+
+#: admin/class-wysylajtaniej-admin.php:409
+#: admin/partials/wysylajtaniej-admin-display.php:33
+#: admin/partials/wysylajtaniej-admin-display.php:87
+#: admin/partials/wysylajtaniej-admin-display.php:88
+msgid "Sender info"
+msgstr ""
+
+#: admin/class-wysylajtaniej-admin.php:419
+msgid "Receiver info"
+msgstr ""
+
+#: admin/class-wysylajtaniej-admin.php:429
+msgid "Package info"
+msgstr ""
+
+#: admin/class-wysylajtaniej-admin.php:433
+msgid "Courier"
+msgstr ""
+
+#: admin/class-wysylajtaniej-admin.php:457
+#: admin/partials/wysylajtaniej-admin-display.php:155
+msgid "--select courier--"
+msgstr ""
+
+#: admin/class-wysylajtaniej-admin.php:480
+msgid "Search Point by address"
+msgstr ""
+
+#: admin/class-wysylajtaniej-admin.php:488
+msgid "Search"
+msgstr ""
+
+#: admin/class-wysylajtaniej-admin.php:518
+#: admin/class-wysylajtaniej-admin.php:702
+msgid "Sender Point"
+msgstr ""
+
+#: admin/class-wysylajtaniej-admin.php:537
+#: admin/class-wysylajtaniej-admin.php:701
+msgid "Receiver Point"
+msgstr ""
+
+#: admin/class-wysylajtaniej-admin.php:574
+msgid "Shape"
+msgstr ""
+
+#: admin/class-wysylajtaniej-admin.php:621
+msgid "Make new order"
+msgstr ""
+
+#: admin/class-wysylajtaniej-admin.php:643
+msgid "Check price"
+msgstr ""
+
+#: admin/class-wysylajtaniej-admin.php:645
+msgid "Send"
+msgstr ""
+
+#: admin/class-wysylajtaniej-admin.php:763
+msgid "No results"
+msgstr ""
+
+#: admin/class-wysylajtaniej-admin.php:792
+msgid "Package will cost: "
+msgstr ""
+
+#: admin/class-wysylajtaniej-admin.php:794
+msgid "Error occurred"
+msgstr ""
+
+#: admin/class-wysylajtaniej-admin.php:800
+msgid "Package send to wysylajtaniej"
+msgstr ""
+
+#: admin/class-wysylajtaniej-admin.php:808
+#: admin/class-wysylajtaniej-admin.php:821
+msgid "No response from wysylajtaniej. Check all fields"
+msgstr ""
+
+#: admin/class-wysylajtaniej-admin.php:833
+msgid "Package reseted"
+msgstr ""
+
+#: admin/class-wysylajtaniej-admin.php:933
+msgid "COD Value"
+msgstr ""
+
+#: admin/class-wysylajtaniej-admin.php:936
+msgid "Account number"
+msgstr ""
+
+#: admin/class-wysylajtaniej-admin.php:939
+#: admin/partials/wysylajtaniej-admin-display.php:139
+msgid "Insurance amount"
+msgstr ""
+
+#: admin/class-wysylajtaniej-admin.php:942
+msgid "Date"
+msgstr ""
+
+#: admin/class-wysylajtaniej-admin.php:945
+msgid "Description"
+msgstr ""
+
+#: admin/class-wysylajtaniej-admin.php:977
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: admin/class-wysylajtaniej-admin.php:991
+msgid "Data saved"
+msgstr ""
+
+#: admin/class-wysylajtaniej-admin.php:1004
+#: admin/class-wysylajtaniej-admin.php:1131
+msgid "Access granted"
+msgstr ""
+
+#: admin/class-wysylajtaniej-admin.php:1084
+msgid "Every delivery option can have just one courier attached."
+msgstr ""
+
+#: admin/class-wysylajtaniej-admin.php:1099
+msgid "Account reseted"
+msgstr ""
+
+#: admin/class-wysylajtaniej-admin.php:1370
+#: admin/class-wysylajtaniej-admin.php:1446
+#: admin/class-wysylajtaniej-admin.php:1509
+#: admin/partials/wysylajtaniej-admin-display.php:94
+msgid "Name"
+msgstr ""
+
+#: admin/class-wysylajtaniej-admin.php:1376
+#: admin/class-wysylajtaniej-admin.php:1452
+#: admin/class-wysylajtaniej-admin.php:1515
+#: admin/partials/wysylajtaniej-admin-display.php:98
+msgid "Surname"
+msgstr ""
+
+#: admin/class-wysylajtaniej-admin.php:1382
+#: admin/class-wysylajtaniej-admin.php:1458
+#: admin/class-wysylajtaniej-admin.php:1521
+#: admin/partials/wysylajtaniej-admin-display.php:102
+msgid "Company"
+msgstr ""
+
+#: admin/class-wysylajtaniej-admin.php:1388
+#: admin/class-wysylajtaniej-admin.php:1464
+#: admin/class-wysylajtaniej-admin.php:1527
+#: admin/partials/wysylajtaniej-admin-display.php:106
+msgid "Street"
+msgstr ""
+
+#: admin/class-wysylajtaniej-admin.php:1394
+#: admin/class-wysylajtaniej-admin.php:1470
+#: admin/class-wysylajtaniej-admin.php:1533
+#: admin/partials/wysylajtaniej-admin-display.php:110
+msgid "Building"
+msgstr ""
+
+#: admin/class-wysylajtaniej-admin.php:1400
+#: admin/class-wysylajtaniej-admin.php:1476
+#: admin/class-wysylajtaniej-admin.php:1539
+#: admin/partials/wysylajtaniej-admin-display.php:114
+msgid "Local"
+msgstr ""
+
+#: admin/class-wysylajtaniej-admin.php:1406
+#: admin/class-wysylajtaniej-admin.php:1482
+#: admin/class-wysylajtaniej-admin.php:1545
+#: admin/partials/wysylajtaniej-admin-display.php:119
+msgid "City"
+msgstr ""
+
+#: admin/class-wysylajtaniej-admin.php:1412
+#: admin/class-wysylajtaniej-admin.php:1488
+#: admin/class-wysylajtaniej-admin.php:1551
+#: admin/partials/wysylajtaniej-admin-display.php:123
+msgid "Post code"
+msgstr ""
+
+#: admin/class-wysylajtaniej-admin.php:1418
+#: admin/class-wysylajtaniej-admin.php:1494
+#: admin/class-wysylajtaniej-admin.php:1557
+#: admin/partials/wysylajtaniej-admin-display.php:127
+msgid "E-mail"
+msgstr ""
+
+#: admin/class-wysylajtaniej-admin.php:1424
+#: admin/class-wysylajtaniej-admin.php:1500
+#: admin/class-wysylajtaniej-admin.php:1563
+#: admin/partials/wysylajtaniej-admin-display.php:131
+msgid "Phone"
+msgstr ""
+
+#: admin/partials/wysylajtaniej-admin-display.php:31
+msgid "API account"
+msgstr ""
+
+#: admin/partials/wysylajtaniej-admin-display.php:34
+msgid "Connect delivery"
+msgstr ""
+
+#: admin/partials/wysylajtaniej-admin-display.php:42
+msgid "Main settings"
+msgstr ""
+
+#: admin/partials/wysylajtaniej-admin-display.php:45
+msgid ""
+"The wysylajtaniej.pl website enables the use of a wide range of courier "
+"services at very attractive prices without restrictions and the need to sign "
+"contracts."
+msgstr ""
+
+#: admin/partials/wysylajtaniej-admin-display.php:52
+#: admin/partials/wysylajtaniej-admin-display.php:75
+msgid "API key"
+msgstr ""
+
+#: admin/partials/wysylajtaniej-admin-display.php:60
+msgid "You can reset current account by clicking Reset button"
+msgstr ""
+
+#: admin/partials/wysylajtaniej-admin-display.php:64
+msgid "Reset"
+msgstr ""
+
+#: admin/partials/wysylajtaniej-admin-display.php:68
+#: admin/partials/wysylajtaniej-admin-display.php:135
+msgid "Account"
+msgstr ""
+
+#: admin/partials/wysylajtaniej-admin-display.php:80
+#: admin/partials/wysylajtaniej-admin-display.php:215
+#: admin/partials/wysylajtaniej-admin-display.php:263
+msgid "Save"
+msgstr ""
+
+#: admin/partials/wysylajtaniej-admin-display.php:143
+msgid "Default courier"
+msgstr ""
+
+#: admin/partials/wysylajtaniej-admin-display.php:175
+msgid "Default description"
+msgstr ""
+
+#: admin/partials/wysylajtaniej-admin-display.php:180
+msgid "Default width"
+msgstr ""
+
+#: admin/partials/wysylajtaniej-admin-display.php:185
+msgid "Default Height"
+msgstr ""
+
+#: admin/partials/wysylajtaniej-admin-display.php:190
+msgid "Default length"
+msgstr ""
+
+#: admin/partials/wysylajtaniej-admin-display.php:195
+msgid "Default weight"
+msgstr ""
+
+#: admin/partials/wysylajtaniej-admin-display.php:200
+msgid "Paczka w ruchu Point"
+msgstr ""
+
+#: admin/partials/wysylajtaniej-admin-display.php:204
+msgid "Inpost Point"
+msgstr ""
+
+#: admin/partials/wysylajtaniej-admin-display.php:208
+msgid "DPD Point"
+msgstr ""
+
+#: admin/partials/wysylajtaniej-admin-display.php:220
+msgid "Connect delivery option to wysylajtaniej courier"
+msgstr ""
+
+#: admin/partials/wysylajtaniej-admin-display.php:223
+msgid ""
+"Please remember! You can only connect to flat rates delivery option. Every "
+"delivery option can have just one option."
+msgstr ""
+
+#: public/class-wysylajtaniej-public.php:84
+#: public/class-wysylajtaniej-public.php:120
+msgid "Select point"
+msgstr ""
+
+#: public/class-wysylajtaniej-public.php:129
+#: public/class-wysylajtaniej-public.php:138
+msgid "Type adress"
+msgstr ""
+
+#: public/class-wysylajtaniej-public.php:130
+#: public/class-wysylajtaniej-public.php:139
+msgid "Search point"
+msgstr ""

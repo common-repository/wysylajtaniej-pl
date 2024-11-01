@@ -1,0 +1,102 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+body div.updated.woocommerce-error {
+    border-left-color: #b22222;
+}
+.get-wysylajtaniej{
+    display:inline-block;
+}
+table.wp-list-table .get-wysylajtaniej img{
+    display:block;
+    margin:0;
+}
+#wysylajtaniej_delivery .get-wysylajtaniej{
+    padding:10px 0;
+    display: block;
+}
+#wysylajtaniej_delivery .get-wysylajtaniej img{
+    margin:0 auto;
+    display: block;
+}
+
+#adminPackageOrder td{
+    vertical-align: top;
+}
+#adminPackageOrder tr.inputRow td{
+    width: 60%;
+}
+#adminPackageOrder tr.inputRow td input[type="text"],
+#adminPackageOrder td > input[type="text"],
+#adminPackageOrder tr.inputRow td select{
+    width: 100%;
+}
+#adminPackageOrder tr.inputRow td ,
+#adminPackageOrder tr.inputRow th{
+    padding:5px 10px 5px 0
+}
+#searchPointResults{
+    margin: 5px 0;
+    max-height: 250px;
+    overflow: auto;
+    position: relative;
+}
+#searchPointResults.loading{
+    height: 60px;
+}
+#searchPointResults.loading:after{
+    position: absolute;
+    content: "LOADNIG ...";
+    color: #000;
+    font-size: 30px;
+    line-height: 60px;
+    font-weight: bold;
+    background: #f1f1f1;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+#searchPointResults .parcel-line{
+    padding: 5px;
+    display:grid;
+    grid-template-areas:
+            "point name"
+            "point location"
+            "button button";
+    grid-template-columns: 120px auto;
+    grid-template-rows: auto;
+    background: #f9f9f9;
+    margin-bottom: 5px;
+
+
+}
+#searchPointResults .parcel-line:nth-child(even){
+    background: #f1f1f1;
+}
+.parcel-point_id {
+    grid-area: point;
+}
+.parcel-name{
+    grid-area: name;
+}
+.parcel-location{
+    grid-area: location;
+}
+.buttonsSelect{
+    grid-area: button;
+    display: flex;
+}
+.buttonSelect2{
+    margin-right: auto;
+}
+#wysylajtaniej_delivery input[type="submit"]{
+    width: 100%;
+}
+.submit-buttons{
+    display: flex;
+}
+.submit-buttons input{
+    margin: 0 10px!important;
+}
